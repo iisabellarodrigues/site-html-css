@@ -8,17 +8,16 @@ O site apresenta diferentes seções, como introdução, conteúdo informativo, 
 ## Objetivos do Projeto
 - Aplicar conceitos de **HTML5 semântico**.
 - Utilizar **CSS3** para estilização e layout.
-- Implementar **Flexbox** e **CSS Grid** para organização dos elementos.
+- Implementar **Flexbox** para organização dos elementos.
 - Desenvolver um site **responsivo**, adaptável a diferentes tamanhos de tela.
 - Criar uma **galeria de imagens** organizada e visualmente harmoniosa.
 - Publicar o projeto utilizando o **GitHub**.
 
 ## Tecnologias Utilizadas
-- **HTML5**
+- **HTML**
 - **CSS**
 - **Google Fonts**
 - **Flexbox**
-- **CSS Grid**
 
 ## Como Visualizar o Projeto
 Acesse: https://iisabellarodrigues.github.io/site-html-css/
